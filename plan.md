@@ -10,4 +10,4 @@ Objective:
 Create a web app using open weather api to show the weather for a specific city for this day, week, month.
 
 Example : https://openweathermap.org/
-use openweathermap API key (1000 free api requests)
+use openweathermap API key (1000 free api requests)npm install
